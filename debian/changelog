@@ -1,0 +1,29 @@
+speg (0.3-deepin1) unstable; urgency=medium
+
+  * Rebuild
+
+ -- Deepin Packages Builder <packages@deepin.org>  Fri, 11 Nov 2022 18:05:30 +0800
+
+speg (0.3-4) unstable; urgency=medium
+
+  * add a watch file
+
+ -- Norbert Preining <norbert@preining.info>  Wed, 19 Feb 2020 05:09:43 +0900
+
+speg (0.3-3) unstable; urgency=medium
+
+  * source only upload
+
+ -- Norbert Preining <norbert@preining.info>  Fri, 19 Jul 2019 14:35:47 +0900
+
+speg (0.3-2) unstable; urgency=medium
+
+  * update vcs, email
+
+ -- Norbert Preining <norbert@preining.info>  Sun, 03 Mar 2019 08:14:47 +0900
+
+speg (0.3-1) unstable; urgency=medium
+
+  * First release (Closes: #912933)
+
+ -- Norbert Preining <preining@debian.org>  Mon, 05 Nov 2018 11:19:06 +0900
